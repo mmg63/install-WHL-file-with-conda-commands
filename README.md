@@ -1,0 +1,7 @@
+# install-WHL-file-with-conda-commands
+This is a tutorial for installing WHL files by anaconda environment.
+
+
+For installing the PyTorch package in an Apple ARM architecture PC, in some cases, anaconda is unable to find a proper PyTorch package to install. Thus, it is recommended that use WHL extension file for this reason.
+
+after downloading WHL extension file from <a href=https://ossci-macos-build.s3.amazonaws.com/torch-1.8.0a0-cp38-cp38-macosx_11_0_arm64.whl>https://ossci-macos-build.s3.amazonaws.com/torch-1.8.0a0-cp38-cp38-macosx_11_0_arm64.whl</a>,
